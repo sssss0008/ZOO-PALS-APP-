@@ -1,0 +1,6 @@
+{
+  "name": "ZooPals",
+  "description": "Fun and interactive animal learning app for kids featuring sounds, fun facts, spelling games, and sticker rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
